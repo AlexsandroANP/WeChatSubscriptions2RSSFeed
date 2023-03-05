@@ -91,6 +91,13 @@
 <pubDate>Thu, 22 Dec 2022 17:30:00 +0800</pubDate>
 </item>
 <item>
+<title><![CDATA[ 支持多轮对话、记录导出！开发ChatGPT对话机器人应用 ]]></title>
+<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzA3ODYwNDkzOQ==&mid=2659075604&idx=1&sn=7ddb04b906bf827d3725b0ccb0612d8b&chksm=84cad9f0b3bd50e69d969f4dd821db33df5ed1126813d0385b8ffc90ecbf4c535abe7890a387&scene=126&sessionid=1662700879#rd ]]></link>
+<description><![CDATA[ Python大数据分析 说：支持多轮对话、记录导出，纯Python开发ChatGPT对话机器人应用 ]]></description>
+<author><![CDATA[ Python大数据分析 ]]></author>
+<pubDate>Sun, 05 Mar 2023 18:17:54 +0800</pubDate>
+</item>
+<item>
 <title><![CDATA[ 让Chatgpt帮你出Python练习题 ]]></title>
 <link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzA3ODYwNDkzOQ==&mid=2659075602&idx=1&sn=f1bd932e49e5f813303f019432e8c152&chksm=84cad9f6b3bd50e0f695d893253c812b6f2238ee856373bd016634d379e946e6d8156428079a&scene=126&sessionid=1662700879#rd ]]></link>
 <description><![CDATA[ Python大数据分析 说： ]]></description>
@@ -161,11 +168,21 @@
 <pubDate>Mon, 20 Feb 2023 21:32:48 +0800</pubDate>
 </item>
 <item>
-<title><![CDATA[ 如何用 Python 调用 OpenAI API？ ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzA3ODYwNDkzOQ==&mid=2659075431&idx=1&sn=22c5eca9738864ee8889853a12b1891b&chksm=84cada83b3bd53958470ca7dbfabe2fcff093f9f5f445036617a736cf0c531fdec8e573987e4&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ Python大数据分析 说： ]]></description>
-<author><![CDATA[ Python大数据分析 ]]></author>
-<pubDate>Sun, 19 Feb 2023 09:00:00 +0800</pubDate>
+<title><![CDATA[ 班门弄斧！当 ChatGPT 参加算法面试 ]]></title>
+<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247521820&idx=1&sn=0c18869d84e0607c65e115b57e4f1958&chksm=97ad70cea0daf9d886061c21d5b407ace6390ede3d5300a8edbc5ed0c25df83283f9ad499335&scene=126&sessionid=1662700879#rd ]]></link>
+<description><![CDATA[ NewBeeNLP 说：大家好，这里是 NewBeeNLP！玩一下微信新产品---"小绿书"[吃瓜]&nbsp;（图片可以点击后双指放大查看文字内容）
+
+最近 openai 开放了真正 chatgpt 的 api 接口，对话模型名字『gpt-3.5-turbo』，之前一直使用的应该是属于 GPT-3.0，对话模型名字『text-davinci-003』。具体差异这里就不多罗列，感兴趣可以翻翻公众号之前的文章，总之就是变强变便宜了[666]
+
+于是周末捣鼓着玩了下[翻白眼]&nbsp;甚至对它来了一场专业的算法面试
+
+面试问题来自我们之前分享的<a target="_blank" href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzIxMzkwNjM2NQ==&amp;action=getalbum&amp;album_id=1337157445470437376&amp;token=955469325&amp;lang=zh_CN&scene=142#wechat_redirect"> #面经系列</a>，随机找了一篇：<a target="_blank" data-itemshowtype="0" href="http://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&amp;mid=2247516423&amp;idx=1&amp;sn=babbac31f4cd0da5c773a576dc63af7f&amp;chksm=97ad67d5a0daeec38d9ff57d69300959776eacc2b0ff6d466f4777a47a22cf931e009978253d&amp;scene=142#wechat_redirect">很强！社招NLP算法收割机</a>，图片中的题目来自小红书公司算法面试（没错，小绿书的内容必须要安排下小红书hhhh）
+
+[天啊]平均每道题用时不到十秒，八股文、智力题、HR面，完全不在话下，大家看看给 R几比较合适？（R系列是小红书的职级序列）
+
+最后，如果对面试面经感兴趣，后台回复『面试』；如果对 chatgpt 感兴趣，后台回复『chatgpt』，会有小助理拉大家进群讨论噢[机智] ]]></description>
+<author><![CDATA[ NewBeeNLP ]]></author>
+<pubDate>Sun, 05 Mar 2023 11:05:00 +0800</pubDate>
 </item>
 <item>
 <title><![CDATA[ 微软亚研院：Language Is Not All You Need ]]></title>
@@ -280,18 +297,11 @@
 <pubDate>Tue, 21 Feb 2023 11:05:00 +0800</pubDate>
 </item>
 <item>
-<title><![CDATA[ 万字长文解析！复现和使用GPT-3/ChatGPT，你所应该知道的 ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247521391&idx=1&sn=30352cf5d86e6300553dc217040c77be&chksm=97ad72bda0dafbabddcd7e93a097f974ca6dde726835944fb803f49159cb4bd9eb236383a978&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ NewBeeNLP 说：万字长文解析！复现和使用GPT-3/ChatGPT，你所应该知道的 ]]></description>
-<author><![CDATA[ NewBeeNLP ]]></author>
-<pubDate>Mon, 20 Feb 2023 11:05:00 +0800</pubDate>
-</item>
-<item>
-<title><![CDATA[ 跟李沐学ChatGPT背后技术：67分钟读透InstructGPT论文 ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247521391&idx=2&sn=9d73660984cf70e46eb9b2225a2825cc&chksm=97ad72bda0dafbab5a6984c4ab86f19988bf410039c0ae0aaaf450401b2327c6aa278903a524&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ NewBeeNLP 说：吃透 InstructGPT 论文对于想要在 ChatGPT 方向上做些工作的同学来说将大有裨益。 ]]></description>
-<author><![CDATA[ NewBeeNLP ]]></author>
-<pubDate>Mon, 20 Feb 2023 11:05:00 +0800</pubDate>
+<title><![CDATA[ 我的周刊（第081期） ]]></title>
+<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzU4MTA0NDQ0Ng==&mid=2247487574&idx=1&sn=e8557aa7b1e5be45b8544810a98f78bf&chksm=fd4cc1e7ca3b48f13056b7ca746bf00675d27a586ce0d4a1e4fb61e7e96da6ed69813cbbddcd&scene=126&sessionid=1662700879#rd ]]></link>
+<description><![CDATA[ 老胡的储物柜 说： ]]></description>
+<author><![CDATA[ 老胡的储物柜 ]]></author>
+<pubDate>Sun, 05 Mar 2023 10:23:53 +0800</pubDate>
 </item>
 <item>
 <title><![CDATA[ 我的周刊（第080期） ]]></title>
@@ -355,13 +365,6 @@
 <description><![CDATA[ 老胡的储物柜 说：新的一年，新的开始。 ]]></description>
 <author><![CDATA[ 老胡的储物柜 ]]></author>
 <pubDate>Fri, 06 Jan 2023 18:30:00 +0800</pubDate>
-</item>
-<item>
-<title><![CDATA[ 我的周刊（第072期） ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzU4MTA0NDQ0Ng==&mid=2247487400&idx=1&sn=7c85855f1553d819a122573fe164b9b3&chksm=fd4cde19ca3b570fc022363c543ce672cf9493a14379ae6cadd3cac27e539c1938ac0ce7b550&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ 老胡的储物柜 说： ]]></description>
-<author><![CDATA[ 老胡的储物柜 ]]></author>
-<pubDate>Fri, 30 Dec 2022 18:00:00 +0800</pubDate>
 </item>
 </channel>
 </rss>
