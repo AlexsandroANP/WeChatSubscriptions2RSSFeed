@@ -6,6 +6,13 @@
     <description>10 Latest Posts of WeChat-Subscriptions in RSS Feed</description>
     <language>zh-CN</language>
 <item>
+<title><![CDATA[ 我基于 ChatGPT 的 API 开发了这个 Chrome 插件，就是为了舒服地看懂一切网页 ]]></title>
+<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&mid=2247495880&idx=1&sn=7e7a19b047f9fed213aca60ddbc35e86&chksm=ceba0ad4f9cd83c229f9fbb433b787d259fe23ea3f7d19f747977e4205266c1da6c9b40593b3&scene=126&sessionid=1662700879#rd ]]></link>
+<description><![CDATA[ 学习Python的正确姿势 说：前不久ChatGPT 的不是开放了 API 了么，小帅b摸了摸自己茂密的头发，开始了人生思考，如何通过 ChatGPT... ]]></description>
+<author><![CDATA[ 学习Python的正确姿势 ]]></author>
+<pubDate>Sun, 12 Mar 2023 12:42:34 +0800</pubDate>
+</item>
+<item>
 <title><![CDATA[ 虽然离谱，但...使用 AI 生成逼真的性感小姐姐教程 ]]></title>
 <link><![CDATA[ http://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&mid=2247495635&idx=1&sn=5241e1575fa767202435fece666b5bc2&chksm=ceba15cff9cd9cd90a74e32377b472d7b1ba4fb9569bb02d416b381fcd13446ad8b5e9bb5851&scene=126&sessionid=1662700879#rd ]]></link>
 <description><![CDATA[ 学习Python的正确姿势 说：哈哈是不是很漂亮？但这些都不是... ]]></description>
@@ -77,18 +84,25 @@
 <pubDate>Tue, 27 Dec 2022 17:20:00 +0800</pubDate>
 </item>
 <item>
-<title><![CDATA[ 用Flash高清重制了一款游戏 ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&mid=2247495097&idx=1&sn=46af6269afeb8387d3d026e6becee193&chksm=ceba17a5f9cd9eb38a80fd81be46ed0b1a874d921c8757b707ecfdee83a14179c6c59247dbe3&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ 学习Python的正确姿势 说： ]]></description>
-<author><![CDATA[ 学习Python的正确姿势 ]]></author>
-<pubDate>Mon, 26 Dec 2022 20:52:30 +0800</pubDate>
+<title><![CDATA[ 解析 ChatGPT 背后的工作原理 ]]></title>
+<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzA3ODYwNDkzOQ==&mid=2659075703&idx=1&sn=e267941ec220a55bedd62238af3be95c&chksm=84cad993b3bd50858f36677fbb1c3b6f43b30b7863bf48a1df70b7300b6d7345c59d12f58400&scene=126&sessionid=1662700879#rd ]]></link>
+<description><![CDATA[ Python大数据分析 说：ChatGPT 实际上是如何工作的？ ]]></description>
+<author><![CDATA[ Python大数据分析 ]]></author>
+<pubDate>Mon, 13 Mar 2023 22:57:35 +0800</pubDate>
 </item>
 <item>
-<title><![CDATA[ 嘿，你中奖了！ ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&mid=2247495097&idx=2&sn=a5fe96ab281b9d45ac3594520d2070b1&chksm=ceba17a5f9cd9eb311dc3ede6e52552dc10e8bbab70cd3d8e7aa2590781e01683f4f627e67be&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ 学习Python的正确姿势 说： ]]></description>
-<author><![CDATA[ 学习Python的正确姿势 ]]></author>
-<pubDate>Mon, 26 Dec 2022 20:52:30 +0800</pubDate>
+<title><![CDATA[ 10个用于可解释AI的Python库 ]]></title>
+<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzA3ODYwNDkzOQ==&mid=2659075667&idx=1&sn=22a968ed6dad269c36c8a9f1a50d5ace&chksm=84cad9b7b3bd50a19a2f5b7a7cab865e5d4dfebd03633dfaaadf9bec9286530588fde3008317&scene=126&sessionid=1662700879#rd ]]></link>
+<description><![CDATA[ Python大数据分析 说： ]]></description>
+<author><![CDATA[ Python大数据分析 ]]></author>
+<pubDate>Sun, 12 Mar 2023 21:13:05 +0800</pubDate>
+</item>
+<item>
+<title><![CDATA[ 图解最常用的 10 个机器学习算法！ ]]></title>
+<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzA3ODYwNDkzOQ==&mid=2659075663&idx=1&sn=b89ee91fb6326867567a9d0d5d6a0aee&chksm=84cad9abb3bd50bd8af9230e1e9d78da896fb0945eb12df0475fb911497356c57c98433dd69a&scene=126&sessionid=1662700879#rd ]]></link>
+<description><![CDATA[ Python大数据分析 说： ]]></description>
+<author><![CDATA[ Python大数据分析 ]]></author>
+<pubDate>Thu, 09 Mar 2023 22:12:01 +0800</pubDate>
 </item>
 <item>
 <title><![CDATA[ medium，值得一看的技术博客~ ]]></title>
@@ -140,32 +154,39 @@
 <pubDate>Tue, 28 Feb 2023 20:00:00 +0800</pubDate>
 </item>
 <item>
-<title><![CDATA[ 最全的常用正则表达式大全 ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzA3ODYwNDkzOQ==&mid=2659075564&idx=1&sn=fd1574eaf0c44465335899bc68dc133e&chksm=84cada08b3bd531e0ff475255f21322763dff207f46c6652c9b515d8b173597a964af793b7b0&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ Python大数据分析 说： ]]></description>
-<author><![CDATA[ Python大数据分析 ]]></author>
-<pubDate>Mon, 27 Feb 2023 22:19:09 +0800</pubDate>
+<title><![CDATA[ GPT-4，下周就要来了？ ]]></title>
+<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247521859&idx=1&sn=11ba25448ffc5d4616c579dc3865b13e&chksm=97ad7091a0daf98787e04eb6575399b23ad199ce6180eb315de664fe840586f0c92b625e9375&scene=126&sessionid=1662700879#rd ]]></link>
+<description><![CDATA[ NewBeeNLP 说：GPT-4，下周就要来了。3 月 9 日，微软德国 CTO Andreas Braun 在一场名为 “AI ]]></description>
+<author><![CDATA[ NewBeeNLP ]]></author>
+<pubDate>Sat, 11 Mar 2023 10:05:00 +0800</pubDate>
 </item>
 <item>
-<title><![CDATA[ Python中临时文件的妙用 ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzA3ODYwNDkzOQ==&mid=2659075486&idx=1&sn=f827de695e0e03edbdfc7dd3d0a14f18&chksm=84cada7ab3bd536c1a063b982557a7607abc6288875d1bc1b76f49cf195974ee9bd989b92d2a&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ Python大数据分析 说：Python中临时文件的妙用 ]]></description>
-<author><![CDATA[ Python大数据分析 ]]></author>
-<pubDate>Sun, 26 Feb 2023 20:00:00 +0800</pubDate>
+<title><![CDATA[ 内推 | 美团平台 NLP 中心 ]]></title>
+<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247521859&idx=2&sn=3f475e6b7330de3d2fc6b47e4ff596eb&chksm=97ad7091a0daf9871057c6f23b3328aa91fd4f70b2005dca2af396322ba15a16b8ce07e65555&scene=126&sessionid=1662700879#rd ]]></link>
+<description><![CDATA[ NewBeeNLP 说：大家好，这里是 NewBeeNLP。小伙伴们有招聘需求，后台回复『面试』可帮忙发布 ]]></description>
+<author><![CDATA[ NewBeeNLP ]]></author>
+<pubDate>Sat, 11 Mar 2023 10:05:00 +0800</pubDate>
 </item>
 <item>
-<title><![CDATA[ 收下这份Git快速上手秘籍 ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzA3ODYwNDkzOQ==&mid=2659075486&idx=2&sn=caf28a98bad50345f74e271789642161&chksm=84cada7ab3bd536c37375307855d629fe1e9289eb80cf5091b977a90c4bdaddd984374c4b2df&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ Python大数据分析 说： ]]></description>
-<author><![CDATA[ Python大数据分析 ]]></author>
-<pubDate>Sun, 26 Feb 2023 20:00:00 +0800</pubDate>
+<title><![CDATA[ ChatGPT 标注指南来了！数据是关键 ]]></title>
+<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247521842&idx=1&sn=f4638c49bf5d7e785c6c22370050a6ff&chksm=97ad70e0a0daf9f671a757c701b7d8d41912c0725e7cc6e57f8c7ea0145ef2923eb8d759e986&scene=126&sessionid=1662700879#rd ]]></link>
+<description><![CDATA[ NewBeeNLP 说：作者 | 太子长琴整理 | Datawhale前言ChatGPT 刚刚出来时，业内人士一致认为高质量的数据是 ]]></description>
+<author><![CDATA[ NewBeeNLP ]]></author>
+<pubDate>Fri, 10 Mar 2023 11:05:00 +0800</pubDate>
 </item>
 <item>
-<title><![CDATA[ 为什么Python开发需要精通Git？ ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzA3ODYwNDkzOQ==&mid=2659075468&idx=1&sn=0027f8b07ed208ea169eee6f04a20ac8&chksm=84cada68b3bd537e287a96cf8757526d1592424395f2e1a42f3393a28e9ec6e61f360b56f65a&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ Python大数据分析 说： ]]></description>
-<author><![CDATA[ Python大数据分析 ]]></author>
-<pubDate>Sat, 25 Feb 2023 16:38:06 +0800</pubDate>
+<title><![CDATA[ 算法面经大乱斗 ]]></title>
+<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247521842&idx=2&sn=5308bf1c0358d745822cad9fae9f7b77&chksm=97ad70e0a0daf9f65e6e7de0ca45293b901a515a2648f7df2efa227b66dfc0c4ce2b367b3d9b&scene=126&sessionid=1662700879#rd ]]></link>
+<description><![CDATA[ NewBeeNLP 说：六大厂面经整理！不要错过！ ]]></description>
+<author><![CDATA[ NewBeeNLP ]]></author>
+<pubDate>Fri, 10 Mar 2023 11:05:00 +0800</pubDate>
+</item>
+<item>
+<title><![CDATA[ 一脉相通！聊聊 ChatGPT 发展路线 ]]></title>
+<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247521835&idx=1&sn=1599d4dcc97085f708a8e8b163dbf530&chksm=97ad70f9a0daf9efe8713c3aacbf872d3d0548821c94178d4ed816c9de3045ca6fc071487a06&scene=126&sessionid=1662700879#rd ]]></link>
+<description><![CDATA[ NewBeeNLP 说： ]]></description>
+<author><![CDATA[ NewBeeNLP ]]></author>
+<pubDate>Wed, 08 Mar 2023 11:05:48 +0800</pubDate>
 </item>
 <item>
 <title><![CDATA[ ChatGPT爆火后，NLP技术不存在了？ ]]></title>
@@ -255,46 +276,11 @@
 <pubDate>Sat, 25 Feb 2023 11:05:00 +0800</pubDate>
 </item>
 <item>
-<title><![CDATA[ 通用信息抽取技术UIE产业案例解析，Prompt 范式落地经验分享！ ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247521498&idx=1&sn=ca4248ce1ae97e89066b5bd8cdb192f3&chksm=97ad7208a0dafb1e06753242c36de1b914b60770e8394afa5478a0fb7cc73ae113a5701456f9&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ NewBeeNLP 说：想了解用户的评价究竟是“真心夸赞”还是“阴阳怪气”？想快速从多角色多事件的繁杂信息中剥茧抽丝提取核心内容？ ]]></description>
-<author><![CDATA[ NewBeeNLP ]]></author>
-<pubDate>Fri, 24 Feb 2023 20:00:00 +0800</pubDate>
-</item>
-<item>
-<title><![CDATA[ AAAI  2023 | 推荐系统，多任务学习，因果推断相关论文整理 ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247521498&idx=2&sn=2fe9f5ecc77639ceffa3bdd2af9eaf7d&chksm=97ad7208a0dafb1e34e88569c58d607d9230bf7614438af29a9106ccea01b44a239fc5bc92be&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ NewBeeNLP 说：AAAI  2023的论文已经出来了，笔者整理了推荐，多任务和因果推断相关的一些文章，方便大家查阅。值得注意 ]]></description>
-<author><![CDATA[ NewBeeNLP ]]></author>
-<pubDate>Fri, 24 Feb 2023 20:00:00 +0800</pubDate>
-</item>
-<item>
-<title><![CDATA[ 学习知识图谱对理解ChatGPT有何作用？ ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247521491&idx=1&sn=e163b3f68e473df8233a898fa0d0fd9b&chksm=97ad7201a0dafb173a8718a542dac8f4ca90a8cc02067ac2b9c71889131ca505b73de24387a2&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ NewBeeNLP 说：ChatGPT最近很火，它能够在各种任务中产生人类类似的自然语言响应，知识图谱则可以形成了一个结构化的图谱。 ]]></description>
-<author><![CDATA[ NewBeeNLP ]]></author>
-<pubDate>Thu, 23 Feb 2023 11:40:00 +0800</pubDate>
-</item>
-<item>
-<title><![CDATA[ 21岁，华科博士在读，我的赛事Top经验 ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247521491&idx=2&sn=ca3eb28cf1da2f835926e0604c607095&chksm=97ad7201a0dafb17e8d952c4dea8e24e3db155ff2472c6f995ec37661e6f76e77e5928556877&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ NewBeeNLP 说： ]]></description>
-<author><![CDATA[ NewBeeNLP ]]></author>
-<pubDate>Thu, 23 Feb 2023 11:40:00 +0800</pubDate>
-</item>
-<item>
-<title><![CDATA[ 干货！GNN优秀论文大盘点（附下载） ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247521474&idx=1&sn=05930db55a8933382f20a29305b63193&chksm=97ad7210a0dafb06b017d68164b5aef630f5843bab9fea69fae3595c91cfeb4d9859ebd52222&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ NewBeeNLP 说：今日福利 |  免费领取文中5篇论文+42篇ICLR 2023图神经网络论文！ ]]></description>
-<author><![CDATA[ NewBeeNLP ]]></author>
-<pubDate>Wed, 22 Feb 2023 11:05:00 +0800</pubDate>
-</item>
-<item>
-<title><![CDATA[ In-Context Learning玩法大全 ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzIxMzkwNjM2NQ==&mid=2247521474&idx=2&sn=92aad0345ae2854c47145a2e8a5c2a45&chksm=97ad7210a0dafb067f23e5d8c45c61a6375d6ca3d1835a95c4e81b4d51d6cab743ca49fa9a63&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ NewBeeNLP 说： ]]></description>
-<author><![CDATA[ NewBeeNLP ]]></author>
-<pubDate>Wed, 22 Feb 2023 11:05:00 +0800</pubDate>
+<title><![CDATA[ 我的周刊（第082期） ]]></title>
+<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzU4MTA0NDQ0Ng==&mid=2247487590&idx=1&sn=f669c1537dc2f2c1f332edce9a68437a&chksm=fd4cc1d7ca3b48c1df01f977bdb5df78a9ebebb81fdc01c3323f07dee97ffd957440f4eb0873&scene=126&sessionid=1662700879#rd ]]></link>
+<description><![CDATA[ 老胡的储物柜 说： ]]></description>
+<author><![CDATA[ 老胡的储物柜 ]]></author>
+<pubDate>Sat, 11 Mar 2023 22:29:00 +0800</pubDate>
 </item>
 <item>
 <title><![CDATA[ 我的周刊（第081期） ]]></title>
@@ -358,13 +344,6 @@
 <description><![CDATA[ 老胡的储物柜 说： ]]></description>
 <author><![CDATA[ 老胡的储物柜 ]]></author>
 <pubDate>Mon, 16 Jan 2023 00:05:01 +0800</pubDate>
-</item>
-<item>
-<title><![CDATA[ 我的周刊（第073期） ]]></title>
-<link><![CDATA[ http://mp.weixin.qq.com/s?__biz=MzU4MTA0NDQ0Ng==&mid=2247487418&idx=1&sn=6fc871e833d9b813bda68597dd232e7b&chksm=fd4cde0bca3b571d26b8616118e7a6dee960579d1610cd76710e2a0a924fe151df015b67a302&scene=126&sessionid=1662700879#rd ]]></link>
-<description><![CDATA[ 老胡的储物柜 说：新的一年，新的开始。 ]]></description>
-<author><![CDATA[ 老胡的储物柜 ]]></author>
-<pubDate>Fri, 06 Jan 2023 18:30:00 +0800</pubDate>
 </item>
 </channel>
 </rss>
